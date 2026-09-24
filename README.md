@@ -1,5 +1,5 @@
 
-# Hi there! I'm Mohan 👋
+# Hi guys! I'm Mohan 👋
 
 ### Full Stack Developer | GenAI Enthusiast
 
